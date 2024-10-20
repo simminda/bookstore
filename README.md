@@ -123,7 +123,7 @@ The application includes comprehensive error handling for:
 
 ## License
 
-[License]
+(Licence)[License]
 
 ## Authors
 
