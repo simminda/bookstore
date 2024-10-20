@@ -123,8 +123,19 @@ The application includes comprehensive error handling for:
 
 ## License
 
-(Licence)[License]
+[LICENSE](LICENSE)
 
 ## Authors
 
-[Simphiwe Ndaba]
+Simphiwe Ndaba
+
+## Screnshots
+
+### Main Menu
+![Main Menu](screenshots/main_menu.png)
+
+### Search
+![Search](screenshots/search.png)
+
+### Book Listing
+![Book Listing](screenshots/all_books.png)
