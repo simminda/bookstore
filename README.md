@@ -127,7 +127,7 @@ The application includes comprehensive error handling for:
 
 ## Authors
 
-Simphiwe Ndaba
+> Simphiwe Ndaba
 
 ## Screnshots
 
